@@ -45,6 +45,10 @@ button {
   border-color:#de980d; 
   color: white;
   border-radius: 7px;
+
+  p {
+    color: #ff9900;
+  }
 }
 button:hover {
   background-color: #ff9900;
