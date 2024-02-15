@@ -32,6 +32,10 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
+h1 {
+    color:#ff9900;
+}
+
 .btn-primary:hover {
     background-color: #ff9900;
     border-color: #ff9900;
